@@ -31,12 +31,11 @@ Each operation is presented in a simple and understandable way using `FILE` poin
 
 ## ⚙️ How to Compile & Run
 
-```bash
 gcc file_operations.c -o file_ops
 ./file_ops
 
 
-## Output
+## ⚙️ Output
 
 
 ![Image](https://github.com/user-attachments/assets/32896054-ac8d-4f07-8a64-ba022fed1501)
